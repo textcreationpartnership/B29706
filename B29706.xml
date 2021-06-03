@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>She is bound but won't obey, or, The Married man's complaint in choosing a wife desiring other young-men to have a care and to look before they leap : to the tune of, The West-country-delight.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29706</idno><idno type="EEBO-CITATION">27961114</idno>
+  <idno type="VID">205794</idno>
+  <idno type="EEBO-PROQUEST">2240902943</idno>
+  
+            <idno type="STC">Wing S3053</idno>
+            <idno type="OCLC">27961114</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205794)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1732:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>She is bound but won't obey, or, The Married man's complaint in choosing a wife desiring other young-men to have a care and to look before they leap : to the tune of, The West-country-delight.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright, and J. Clarke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:205794:1"/>
+            <head>She is bound but won't Obey; <hi>Or, The married man's complaint in choosing a wife.</hi>
+            </head>
+            <argument>
+               <p>Desiring other Young-men to have a care, and to look before they leap.</p>
+            </argument>
+            <opener>To the Tune of, The West-Country-delight.</opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut: domestic quarrel</figDesc>
+                  <p>Out Rogue spend thy▪ Mony</p>
+                  <p>O good wife</p>
+               </figure>
+            </p>
+            <lg>
+               <l>I Am a poor married man truly,</l>
+               <l>and I lead a weary life,</l>
+               <l>As I will plainly here declare,</l>
+               <l>by marrying with a wife;</l>
+               <l>at bed and board,</l>
+               <l>still word for word,</l>
+               <l>she'l give me two for one,</l>
+               <l>You Married-Men and▪ Batchelors,</l>
+               <l>come listen to my song.</l>
+            </lg>
+            <lg>
+               <l>I was a Batchelor void of care,</l>
+               <l>and I had a good estate,</l>
+               <l>And I forsooth must presently</l>
+               <l>go seek me out a mate;</l>
+               <l>which <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the last</l>
+               <l>unto my cost,</l>
+               <l>I light on such a one,</l>
+               <l>Search all the country round about,</l>
+               <l>the like is not agen.</l>
+            </lg>
+            <lg>
+               <l>Now I will plainly here declare,</l>
+               <l>unto your open view,</l>
+               <l>And if that I were put to my oath,</l>
+               <l>I'le swear▪ that it is true:</l>
+               <l>then give good ear,</l>
+               <l>while I declare,</l>
+               <l>the wicked weary life,</l>
+               <l>Which I sustain both night and day,</l>
+               <l>by <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>rying with a Wife.</l>
+            </lg>
+            <lg>
+               <l>Each morning I must rise b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>times,</l>
+               <l>to make my wife a fire,</l>
+               <l>And also make her a posset too,</l>
+               <l>if it be her desire:</l>
+               <l>then up she'l get,</l>
+               <l>at ten a clock,</l>
+               <l>whether it be day or no,</l>
+               <l>Pray which of all you women-kind,</l>
+               <l>are us'd for to do so.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:205794:1"/>
+               <l>ANd when that she is up and drest,</l>
+               <l>to the Ale-house she will trot,</l>
+               <l>And there she'l stay and be as drunk,</l>
+               <l>as ever was a Rot;</l>
+               <l>with pipe and pot,</l>
+               <l>she will stick to't,</l>
+               <l>while she can stand or go,</l>
+               <l>Pray which of all you women-kind,</l>
+               <l>are us'd for to do so.</l>
+            </lg>
+            <lg>
+               <l>And when that she is drunk come home</l>
+               <l>she'l put me in such fears,</l>
+               <l>She'l pull my nose, and pinch my arms</l>
+               <l>and wring me by the ears:</l>
+               <l>by the hair of the head,</l>
+               <l>out of the bed,</l>
+               <l>she'l pull me on the floar,</l>
+               <l>And when that I have turn'd my back,</l>
+               <l>she's given to play the Whore.</l>
+            </lg>
+            <lg>
+               <l>She'l tall me Cuckold to my face,</l>
+               <l>and I cannot it deny,</l>
+               <l>But yet I know in our Town,</l>
+               <l>there's more as well as I:</l>
+               <l>there's Neighbour John,</l>
+               <l>an honest man:</l>
+               <l>but what if that he be,</l>
+               <l>He may dry clouts upon his horns,</l>
+               <l>as well as thee or me.</l>
+            </lg>
+            <lg>
+               <l>I dare not in the Ale-house peep,</l>
+               <l>no not for both my ears,</l>
+               <l>But she will presently after creep,</l>
+               <l>and put me in such fears:</l>
+               <l>with the Flagon lid,</l>
+               <l>upon my head,</l>
+               <l>she'l ring me such a pell,</l>
+               <l>I think in heart that she is worse,</l>
+               <l>then all the devils in hell.</l>
+            </lg>
+            <lg>
+               <l>I must be man and Maid at home,</l>
+               <l>and do the work within,</l>
+               <l>And when that I have made the Chéese</l>
+               <l>I must sit down and spin:</l>
+               <l>which grieves me</l>
+               <l>to the very heart,</l>
+               <l>to think of the weary life,</l>
+               <l>Which I sustain both night and day,</l>
+               <l>by Marrying with a Wife.</l>
+            </lg>
+            <lg>
+               <l>And when that she at supper sits,</l>
+               <l>I must stand looking on,</l>
+               <l>And after she hath eat the meat,</l>
+               <l>then I must pick the bone:</l>
+               <l>I cannot have</l>
+               <l>one bit of bread,</l>
+               <l>but what she doth me cut,</l>
+               <l>And yet I'le swear both day and night,</l>
+               <l>she keeps me hard at work.</l>
+            </lg>
+            <lg>
+               <l>What course to take I cannot tell,</l>
+               <l>I lead such a weary life,</l>
+               <l>That I could e'n find in my heart,</l>
+               <l>to hang me with my knife;</l>
+               <l>or else go put</l>
+               <l>on a clean shirt,</l>
+               <l>and drown me immediately,</l>
+               <l>That all young men both far and near</l>
+               <l>may example take by me.</l>
+            </lg>
+            <lg>
+               <l>You Batchelors all both great &amp; small,</l>
+               <l>example take by me,</l>
+               <l>And when you look these lines upon,</l>
+               <l>think on my misery;</l>
+               <l>and also look</l>
+               <l>before you leap,</l>
+               <l>for fear you catch a fall,</l>
+               <l>If your wives proves no better thine mine</l>
+               <l>I would they were buried all.</l>
+            </lg>
+            <lg>
+               <l>you Married-men that have good wives</l>
+               <l>I would wish you make much of them</l>
+               <l>And also see in any wise,</l>
+               <l>you do not seek to wrong the<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</l>
+               <l>for a good Wife,</l>
+               <l>upon my life,</l>
+               <l>is worth both Gold and Pearl,</l>
+               <l>And happy is that Married man,</l>
+               <l>that ligh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s on such a Girl.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>F. Coles, T. Vere, J. Wright,</hi> and <hi>J. Clarke.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </back>
+   </text>
+</TEI>
